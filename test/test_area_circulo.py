@@ -1,6 +1,6 @@
 import math as M
 import pytest
-from AreaCirculo import AreaCirculo
+from area_circulo import AreaCirculo
 
 
 # Caso correcto
